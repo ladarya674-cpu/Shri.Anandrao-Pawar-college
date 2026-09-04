@@ -1,0 +1,11 @@
+{
+  "title": "Anandrav pawar college",
+  "description": "Provides a comprehensive college website featuring home, academics, infrastructure, gallery, notices, contact, and admin pages for easy information access and management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

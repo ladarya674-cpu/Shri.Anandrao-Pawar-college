@@ -9,10 +9,12 @@
     "dev": "node server.js"
   },
   "dependencies": {
+    "cloudinary": "^2.11.0",
     "cors": "^2.8.5",
     "dotenv": "^17.4.2",
     "express": "^4.19.2",
     "multer": "^2.3.0",
+    "pg": "^8.23.0",
     "uuid": "^11.1.1"
   }
 }
